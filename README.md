@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Guerino
+# 👨‍💻 Rafael Guerino
 
 **`Desenvolvedor Back-end`**
 
