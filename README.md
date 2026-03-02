@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou Rafael Gonçalves Guerino, tenho 19 anos. Estou cursando Engenharia de Software na Universidade de Ribeirão Preto (UNAERP).
+Sou Rafael Gonçalves Guerino, tenho 20 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando o 5º período de Engenharia de Software na Universidade de Ribeirão Preto (UNAERP). Apaixonado por tecnologia e desenvolvimento, compartilho minha jornada acadêmica e profissional no meu GitHub e em redes profissionais.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/056a9196-2765-4113-834b-b1877289947e" alt="Michael Jackson"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafagguerino/ "Acesse meu Linkedin")
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelguerino5180@gmail.com "Entre em contato comigo")
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaGGuerino "Siga-me no GitHub")
 
 ---
 
@@ -14,35 +14,35 @@ Sou Rafael Gonçalves Guerino, tenho 19 anos. Estou cursando Engenharia de Softw
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Anaconda" 
-    title="Anaconda"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle sqldeveloper" 
+    title="Oracle sqldeveloper"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
@@ -72,24 +72,10 @@ Sou Rafael Gonçalves Guerino, tenho 19 anos. Estou cursando Engenharia de Softw
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=RafaGGuerino&show_icons=true&theme=dracula&include_all_commits=true" 
-  />
-
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="195"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGGuerino&theme=dracula&layout=donut&custom_title=Tecnologias" 
-  />
-
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RafaGGuerino&theme=highcontrast" alt="Estatísticas do GitHub de Rafael" />
+</div>
