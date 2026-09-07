@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou Rafael Gonçalves Guerino, tenho 20 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando o 5º período de Engenharia de Software na Universidade de Ribeirão Preto (UNAERP). Apaixonado por tecnologia e desenvolvimento, compartilho minha jornada acadêmica e profissional no meu GitHub e em redes profissionais.
+Sou Rafael Gonçalves Guerino, tenho 20 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando o 6º período de Engenharia de Software na Universidade de Ribeirão Preto (UNAERP). Apaixonado por tecnologia e desenvolvimento, compartilho minha jornada acadêmica e profissional no meu GitHub e em redes profissionais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafagguerino/ "Acesse meu Linkedin")
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelguerino5180@gmail.com "Entre em contato comigo")
