@@ -1,81 +1,42 @@
-# 👨‍💻 Rafael Guerino
 
-**`Desenvolvedor Back-end`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+%F0%9F%91%8B;Engenharia+de+Software" />
+</p>
 
-Sou Rafael Gonçalves Guerino, tenho 20 anos e sou natural de Ribeirão Preto. Atualmente, estou cursando o 6º período de Engenharia de Software na Universidade de Ribeirão Preto (UNAERP). Apaixonado por tecnologia e desenvolvimento, compartilho minha jornada acadêmica e profissional no meu GitHub e em redes profissionais.
+#### Formas de contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafagguerino/ "Acesse meu Linkedin")
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelguerino5180@gmail.com "Entre em contato comigo")
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaGGuerino "Siga-me no GitHub")
+<p align="left">
+<a href="mailto:rafaelguerino5180@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
 
----
+<a href="https://www.linkedin.com/in/rafagguerino/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>    
+</p>
 
-### 👾 Linguagens e Tecnologias
+### Tecnologias que utilizo
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle sqldeveloper" 
-    title="Oracle sqldeveloper"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,python,kotlin" />
+</p>
 
-<br/>
-<br/>
+### Banco de Dados e Outras Ferramentas
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,js,tailwind" />
+</p>
 
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RafaGGuerino&theme=highcontrast" alt="Estatísticas do GitHub de Rafael" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RafaGGuerino&theme=dark&fire=orange&ring=orange&hide_border=true" />
+</p>
+
+## 💡 Sobre mim
+
+Atuo como Estagiário de Infraestrutura e Operações de TI na Usina São Martinho e estudo Engenharia de Software na UNAERP (6º período). Sou apaixonado por tecnologia, automação e desenvolvimento, sempre buscando aprimorar minhas habilidades com novas ferramentas e integrações de sistemas.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,FFCC00&height=100&section=footer" />
+</p>
